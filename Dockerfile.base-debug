@@ -1,2 +1,2 @@
-# Tags: base-debug
+# Tags:  base-debug
 FROM gcr.io/distroless/java:base-debug
