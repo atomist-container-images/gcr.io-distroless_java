@@ -1,2 +1,0 @@
-# Tags:  8-nonroot
-FROM gcr.io/distroless/java:8-nonroot

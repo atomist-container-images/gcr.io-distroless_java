@@ -1,2 +1,0 @@
-# Tags:  8-debug
-FROM gcr.io/distroless/java:8-debug
